@@ -1,0 +1,11 @@
+.filter-element.css-nen11g-MuiStack-root {
+    width: 47%;
+    display: inline-flex;
+}
+
+@media screen and (max-width: 768px) {
+    .filter-element.css-nen11g-MuiStack-root {
+        margin-bottom: 25px;
+        width: 100%;
+    }
+}
